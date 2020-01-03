@@ -18,7 +18,7 @@ a:active, a:hover {
     color: #16a085;
     display: block;
     text-decoration: none;
-    text-align: center;
+    
 }
 a {
     background-color: transparent;
@@ -26,12 +26,14 @@ a {
 .page-title__text {
     font-weight: 700;
     font-size: 150%;
+    text-align: center;
 }
 div {
     display: block;
 }
 .page-title__subtitle {
     font-weight: 400;
+    text-align: center;
     font-size: 75%;
     color: #828282;
 }
@@ -97,6 +99,18 @@ p, ul, ol, dl {
 strong {
     color: #16a085;
 }
-iframe {
-max-width = 100%;
+iframe{
+    max-width: 100%;
+}
+#describe-text{
+    text-align: center;
+}
+.about__devider {
+    font-size: 100%;
+    letter-spacing: 9.09px;
+    text-align: center;
+}
+.about__text {
+    font-size: 100%;
+    text-align: center;
 }
