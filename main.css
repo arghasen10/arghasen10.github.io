@@ -97,3 +97,6 @@ p, ul, ol, dl {
 strong {
     color: #16a085;
 }
+iframe {
+max-width = 100%;
+}
