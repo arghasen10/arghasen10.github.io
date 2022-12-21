@@ -1,0 +1,11 @@
+---
+title: "AeT-Drone: Aerial Environment Sensing and Traffic Surveillance using sensor enabled Drone/UAV"
+collection: talks
+type: "Project Work"
+permalink: /talks/talk-2
+venue: "Winter Internship at MCNRG"
+date: 2018-12-19 to 2019-02-19
+location: "NIT Durgapur, India"
+---
+The rise in the environmental pollution and degradation of air quality has dragged the attention of researchers and innovators. Due to the high cost Air Quality Monitoring Station(AQMS) can not be placed densely. However, spatial and temporal resolution of data from ground, manned aircraft and satellite measurements is relatively low and often inadequate for local and regional applications. Furthermore, taking measurements close to pollutant sources may not always be possible and it could be too dangerous or risky for manned aircraft to fly close to the ground. Together, these reasons promote the use of small, lightweight UAVs for a range of applications, including atmospheric measurements. To get fine grained data, we have developed an Environment monitoring device using some pollutant sensors and build a model to predict the pollutants’ concentration. UAVs cover large areas and can monitor remote, dangerous or difficult to access locations, increasing operational flexibility and resolution over land-based methods. Parallel to Environmental pollution, traffic congestion is a serious problem in a fast-paced world, especially in metropolitans. People lose hours of their precious time by waiting in traffic. We aim to find an optimized resource-allocation based solution by analyzing traffic data of distributed nodes in form of UAVs across the city. The end goal is to explore new possibilities in the field of traffic analysis by its fully automatic calculation of a wide range of traffic parameters such as speed, densities, time, and pollution levels.
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/t7wGiFjItSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

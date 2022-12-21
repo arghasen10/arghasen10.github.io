@@ -1,0 +1,13 @@
+# Develop override settings
+
+url: http://arghasen10.github.io
+
+analytics:
+  provider: false
+
+comments:
+  disqus:
+    shortname            : "mmistakes-dev"
+
+sass:
+  style: expanded
