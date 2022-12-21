@@ -7,4 +7,3 @@ venue: 'ACM TOMPECS (Under Review)'
 ---
 
 Authors: <b>Argha Sen</b>, Ayan Zunaid, Soumyajit Chatterjee, Basabdatta Palit, Sandip Chakraborty<br>
-[Download paper here](http://arghasen10.github.io/files/comsnets_23_final_version.pdf)
