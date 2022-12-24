@@ -63,7 +63,7 @@ author:
   name             : "Argha Sen"
   avatar           : "argha_sen.jpg"
   bio              : "Research Scholar at Dept of CSE, IIT KGP"
-  location         : "UbiNet, IIT Kharagpur"
+  location         : ["UbiNet, IIT Kharagpur"](https://cse.iitkgp.ac.in/resgrp/ubinet/)
   googlescholar    : "https://scholar.google.com/citations?user=QF2toEoAAAAJ&hl=en"
   email            : "arghasen10@gmail.com"
   github           : "arghasen10"
