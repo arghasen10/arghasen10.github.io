@@ -4,7 +4,7 @@ collection: publications
 type: accepted
 permalink: /publication/pep-1
 date: 2023-02-14
-venue: 'IEEE TNSM'
+venue: 'IEEE Transactions on Network and Service Management (TNSM)'
 ---
 
 Authors: Basabdatta Palit, <b>Argha Sen</b>, Abhijit Mondal, Ayan Zunaid, Jay Jayatheerthan, Sandip Chakraborty<br>
