@@ -2,7 +2,7 @@
 title: "mmAssist: Passive Monitoring of Driver’s Attentiveness Using mmWave Sensors"
 collection: publications
 permalink: /publication/pep-2
-type: published
+type: publications
 date: 2023-01-03
 venue: 'International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)'
 ---
