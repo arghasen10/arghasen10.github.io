@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/pep-10
 type: accepted
 date: 2023-07-20
-venue: 'CyPhySS 2023'
+venue: 'Cyber-Physical Systems Summit (CyPhySS 2023)'
 ---
 
 Authors: <b>Argha Sen</b>, Sandip Chakraborty <br>
+
+<!-- <b>Best Demo Paper Award.</b> -->
