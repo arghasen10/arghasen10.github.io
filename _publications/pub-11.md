@@ -2,7 +2,7 @@
 title: "Continuous Diver Monitoring and real-time inference of Dangerous Driving"
 collection: publications
 permalink: /publication/pep-11
-type: accepted
+type: publications
 date: 2023-07-20
 venue: 'Cyber-Physical Systems Summit (CyPhySS 2023)'
 ---

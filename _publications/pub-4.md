@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Cellular Throughput Prediction over the Edge: Collaborative Multi-device, Multi-network in-situ Learning"
 collection: publications
-type: accepted
+type: publications
 permalink: /publication/pep-4
 venue: 'International Conference on Embedded Wireless Systems and Networks (EWSN 2023)'
 date: 2023-09-25
