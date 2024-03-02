@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-8
 type: publications
 date: 2020-01-05
-venue: 'ICDCN, International Workshop on Societal Computing for the Internet of Things & You (SoCIeTY 2020)'
+venue: 'ICDCN, International Workshop on Societal Computing for the Internet of Things & You (SoCIeTY)'
 # paperurl: 'http://arghasen10.github.io/files/percom_2023_final.pdf'
 ---
 

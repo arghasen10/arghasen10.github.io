@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-2
 type: publications
 date: 2023-01-03
-venue: 'International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)'
+venue: 'International Conference on COMmunication Systems & NETworkS (COMSNETS)'
 ---
 
 Authors: <b>Argha Sen</b>, Anirban Das, Prasenjit Karmakar, Sandip Chakraborty<br>

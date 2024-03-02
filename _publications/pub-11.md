@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-11
 type: publications
 date: 2023-07-20
-venue: 'Cyber-Physical Systems Summit (CyPhySS 2023)'
+venue: 'Cyber-Physical Systems Summit (CyPhySS)'
 ---
 
 Authors: <b>Argha Sen</b>, Sandip Chakraborty <br>

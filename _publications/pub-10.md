@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-10
 type: publications
 date: 2023-02-20
-venue: 'Sensing and Imaging Journal, Springer 2023'
+venue: 'Sensing and Imaging Journal, Springer'
 ---
 
 Authors: Praveen Kumar Sharma, Bidyut Dalal, Ananya Mondal, <b>Argha Sen</b>, Amartya Banerjee, Sandip Mondal, Tanmay De, Sujoy Saha <br>

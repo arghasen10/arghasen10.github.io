@@ -3,7 +3,7 @@ title: "Revisiting Cellular Throughput Prediction over the Edge: Collaborative M
 collection: publications
 type: publications
 permalink: /publication/pep-4
-venue: 'International Conference on Embedded Wireless Systems and Networks (EWSN 2023)'
+venue: 'International Conference on Embedded Wireless Systems and Networks (EWSN)'
 date: 2023-09-25
 ---
 

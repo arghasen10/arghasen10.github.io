@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-5
 type: publications
 date: 2022-06-23
-venue: 'Workshop on ns-3 (WNS3 2022)'
+venue: 'Workshop on ns-3 (WNS3)'
 # paperurl: 'http://arghasen10.github.io/files/percom_2023_final.pdf'
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pep-3
 type: publications
 date: 2023-03-13
-venue: 'International Conference on Pervasive Computing and Communications (PerCom 2023)'
+venue: 'International Conference on Pervasive Computing and Communications (PerCom)'
 # paperurl: 'http://arghasen10.github.io/files/percom_2023_final.pdf'
 ---
 
