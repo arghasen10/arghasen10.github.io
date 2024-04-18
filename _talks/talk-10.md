@@ -1,7 +1,7 @@
 ---
 title: "Demo Abstract: MARS -An mmWave-based Multi-user Activity Tracking Solution"
 collection: talks
-type: "Conference proceedings talk"
+type: "Demo"
 permalink: /talks/talk-10
 venue: "IPSN 2024"
 date: 2024-05-13
