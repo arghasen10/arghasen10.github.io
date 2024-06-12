@@ -8,6 +8,7 @@ venue: 'ACM/IEEE International Conference on Information Processing in Sensor Ne
 ---
 
 Authors: <b>Argha Sen</b>, Anirban Das, Swadhin Pradhan, Sandip Chakraborty <br>
+[Download paper here](/files/ipsn24_demo.pdf)
 [See the video](https://www.youtube.com/watch?v=6Bn2RfhJF6s)
 <!-- <b>Best Demo Paper Award.</b> -->
 

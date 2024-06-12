@@ -9,3 +9,4 @@ venue: 'IEEE INFOCOM Poster'
 ---
 
 Authors: <b>Argha Sen</b>, Sashank Bonda, Jay Jayatheerthan, Sandip Chakraborty<br>
+[Download paper here](/files/infocomm_22.pdf)

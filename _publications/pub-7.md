@@ -9,3 +9,4 @@ venue: 'IEEE INFOCOM Poster'
 ---
 
 Authors: <b>Argha Sen</b>, Abhijit Mondal, Basabdatta Palit, Jay Jayatheerthan, Krishna Paul, Sandip Chakraborty<br>
+[Download paper here](/files/infocomm_21.pdf)

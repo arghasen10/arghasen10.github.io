@@ -9,3 +9,4 @@ venue: 'Workshop on ns-3 (WNS3)'
 ---
 
 Authors: <b>Argha Sen</b>, Sashank Bonda, Jay Jayatheerthan, Sandip Chakraborty<br>
+[Download paper here](/files/wns3_argha.pdf)

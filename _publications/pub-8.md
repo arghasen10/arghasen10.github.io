@@ -9,3 +9,4 @@ venue: 'ICDCN, International Workshop on Societal Computing for the Internet of 
 ---
 
 Authors: Praveen Kumar Sharma, Suraj Gupta,  <b>Argha Sen</b>, Tanmoy De, Sujoy Saha<br>
+[Download paper here](/files/3369740.3372765.pdf)

@@ -8,6 +8,7 @@ date: 2023-09-25
 ---
 
 Authors: <b>Argha Sen</b>, Ayan Zunaid, Soumyajit Chatterjee, Basabdatta Palit, Sandip Chakraborty<br>
+[Download paper here](/files/arxiv_iwsn.pdf)
 
 ### Abstract
 

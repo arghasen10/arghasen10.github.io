@@ -9,3 +9,4 @@ venue: 'IEEE INDICON'
 ---
 
 Authors: <b>Argha Sen</b>, Monsij Biswal, Shreyan Datta<br>
+[Download paper here](/files/indicon.pdf)

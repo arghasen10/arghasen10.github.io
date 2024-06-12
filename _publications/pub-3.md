@@ -9,7 +9,7 @@ venue: 'International Conference on Pervasive Computing and Communications (PerC
 ---
 
 Authors: <b>Argha Sen</b>, Avijit Mandal, Prasenjit Karmakar, Anirban Das, Sandip Chakraborty<br>
-[Download paper here](http://arghasen10.github.io/files/percom_2023_final.pdf)
+[Download paper here](/files/percom_2023_final.pdf)
 
 ### Abstract
 In this work we explore the feasibility of purely using mmWave radars to detect dangerous driving behaviors. We then develop a novel Fused-CNN model to detect dangerous driving instances from regular driving and classify 9 different dangerous driving actions. Through extensive experiments with 5 volunteer drivers in real driving environments, we observe that our system can distinguish dangerous driving actions with an average accuracy of 97(±2)%.

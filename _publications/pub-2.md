@@ -8,4 +8,4 @@ venue: 'International Conference on COMmunication Systems & NETworkS (COMSNETS)'
 ---
 
 Authors: <b>Argha Sen</b>, Anirban Das, Prasenjit Karmakar, Sandip Chakraborty<br>
-[Download paper here](http://arghasen10.github.io/files/comsnets_23_final_version.pdf)
+[Download paper here](/files/comsnets_23_final_version.pdf)

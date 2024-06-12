@@ -8,5 +8,6 @@ venue: '22nd ACM International Conference on Mobile Systems, Applications, and S
 ---
 
 Authors: <b>Argha Sen</b>, Soham Chakraborty, Soham Tripathy, Sandip Chakraborty <br>
-<!-- <b>Best Demo Paper Award.</b> -->
+[Download paper here](/files/mobisys_poster24.pdf)
+
 
