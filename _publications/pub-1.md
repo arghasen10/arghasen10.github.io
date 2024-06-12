@@ -8,5 +8,4 @@ venue: 'IEEE Transactions on Network and Service Management (TNSM)'
 ---
 
 Authors: Basabdatta Palit, <b>Argha Sen</b>, Abhijit Mondal, Ayan Zunaid, Jay Jayatheerthan, Sandip Chakraborty<br>
-
 [Download paper here](/files/tnsm1.pdf)
