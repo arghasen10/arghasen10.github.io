@@ -33,21 +33,18 @@ Education
 
 Achievements
 ======
-1. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of
-the target using Unmanned Aerial Vehicles
-1. Participated in Festival of Innovation and Entrepreneurship (FINE) 2019 at NIF Gandhinagar,
-Gujarat from March 15 to 18, 2019.
-1. Presented a poster at the Workshop on Robotics and Assistive Technology (RAT 2019) organized
-by the National Institute of Technology Durgapur during January 3-5, 2019.
-1. 1<sup>st</sup> Position in Techmela, The annual science exhibition organized in AAROHAN 2019. AeTDrone: Aerial Environment Sensing and Traffic Monitoring with Drone(UAV) complete working
-prototype presented in Techmela.
-1. 1<sup>st</sup> Position in Onspot IoT Hackathon organized in AAROHAN 2019: The first position among
-70 entries in IoT Hackathon. An intrusion detection system with a Raspberry Pi Zero working
-prototype is presented.
-1. IoT Hackathon Winner: 1<sup>st</sup> Position in Hackoverflow, IoT Hackathon organized in Aavishkar
-2018, Techno-Management fest of NIT Durgapur by GNU LINUX USER’s GROUP and HackerEarth.
-1. District and School Topper in Higher Secondary Examination, CBHSE.
-
+1. Recipient of ACM COMPASS Travel Grant for attending ACM COMPASS 2024
+2. Recipient of ACM MobiSys Student Travel Grant for attending ACM MobiSys 2024
+3. Recipient of ACM IARCS Travel Grant for attending IPSN 2024
+4. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023
+5. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023
+6. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021
+7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles
+8. 1st Position in Techmela, The annual science exhibition organized in AAROHAN 2019. AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone(UAV) complete working prototype presented in Techmela.
+9.1st Position in Onspot IoT Hackathon organized in AAROHAN 2019 among 70 entries. 
+10. IoT Hackathon Winner: 1st Position in Hackoverflow, IoT Hackathon organized in Aavishkar 2018, Techno-Management fest of NIT Durgapur by GNU LINUX USER's GROUP and HackerEarth.
+11. District and School Topper in Higher Secondary Examination, CBHSE.
+12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058
 
 Visit tracker
 ======
