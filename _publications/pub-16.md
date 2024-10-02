@@ -2,7 +2,7 @@
 title: "Capturing Human Emotion Pervasively using COTS mmWave Radar"
 collection: publications
 permalink: /publication/pep-16
-type: accepted
+type: publications
 date: 2024-07-8
 venue: 'ACM COMPASS Posters 2024'
 ---
