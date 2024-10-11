@@ -1,10 +1,9 @@
 ---
-title: "EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing"
+title: "EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking"
 collection: publications
 permalink: /publication/pep-18
 type: accepted
-date: 2024-11-8
-venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT)'
+date: 2024-12-10
+venue: 'Annual Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track'
 ---
-Authors: <b>Argha Sen</b>, Nuwan Bandara, Ila Gokarn, Thivya Kandappu, Archan Misra <br>
-[Download paper here](/files/imwut1.pdf)
+Authors: Nuwan Bandara, Thivya Kandappu, <b>Argha Sen</b>, Ila Gokarn, Archan Misra <br>
