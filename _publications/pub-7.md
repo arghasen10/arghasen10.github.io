@@ -1,6 +1,7 @@
 ---
 title: "An ns3-based Energy Module of 5G NR User Equipments for Millimeter Wave Networks"
 collection: publications
+category: posters
 permalink: /publication/pep-7
 type: publications
 date: 2021-05-12

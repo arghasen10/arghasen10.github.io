@@ -1,6 +1,7 @@
 ---
 title: "Indoor Air Sensing: A Study in Cost, Energy, Reliability and Fidelity in Sensing"
 collection: publications
+category: manuscripts
 permalink: /publication/pep-10
 type: publications
 date: 2023-02-20

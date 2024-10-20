@@ -1,10 +1,11 @@
 ---
 title: "Demo Abstract: MARS -An mmWave-based Multi-user Activity Tracking Solution"
 collection: publications
+category: posters
 permalink: /publication/pep-13
-type: accepted
+type: publications
 date: 2024-05-13
-venue: 'ACM/IEEE International Conference on Information Processing in Sensor Networks Demo (IPSN Demo 2024)'
+venue: 'ACM/IEEE International Conference on Information Processing in Sensor Networks Demo (IPSN Demo)'
 ---
 
 Authors: <b>Argha Sen</b>, Anirban Das, Swadhin Pradhan, Sandip Chakraborty <br>

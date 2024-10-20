@@ -1,6 +1,7 @@
 ---
 title: "mmdrive: mmWave Sensing for Live Monitoring and On-Device Inference of Dangerous Driving"
 collection: publications
+category: conferences
 permalink: /publication/pep-3
 type: publications
 date: 2023-03-13

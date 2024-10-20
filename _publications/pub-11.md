@@ -1,6 +1,7 @@
 ---
 title: "Continuous Diver Monitoring and real-time inference of Dangerous Driving"
 collection: publications
+category: posters
 permalink: /publication/pep-11
 type: publications
 date: 2023-07-20

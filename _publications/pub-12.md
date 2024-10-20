@@ -1,10 +1,11 @@
 ---
 title: "Continuous Multi-user Activity Tracking via Room-Scale mmWave Sensing"
 collection: publications
+category: conferences
 permalink: /publication/pep-12
-type: accepted
+type: publications
 date: 2024-05-13
-venue: 'ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN 2024) '
+venue: 'ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN) '
 ---
 
 Authors: <b>Argha Sen</b>, Anirban Das, Swadhin Pradhan, Sandip Chakraborty <br>

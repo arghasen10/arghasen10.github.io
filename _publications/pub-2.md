@@ -1,6 +1,7 @@
 ---
 title: "mmAssist: Passive Monitoring of Driver’s Attentiveness Using mmWave Sensors"
 collection: publications
+category: conferences
 permalink: /publication/pep-2
 type: publications
 date: 2023-01-03

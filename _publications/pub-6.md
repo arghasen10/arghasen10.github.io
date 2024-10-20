@@ -1,6 +1,7 @@
 ---
 title: "An ns3-based Energy Module for 5G mmWave Base Stations"
 collection: publications
+category: posters
 permalink: /publication/pep-6
 type: publications
 date: 2022-05-04

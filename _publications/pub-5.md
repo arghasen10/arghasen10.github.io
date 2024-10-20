@@ -1,6 +1,7 @@
 ---
 title: "Implementation of mmWave energy Module and Power Saving Schemes in ns-3"
 collection: publications
+category: conferences
 permalink: /publication/pep-5
 type: publications
 date: 2022-06-23

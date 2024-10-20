@@ -1,6 +1,7 @@
 ---
 title: "Exploring Collision Avoidance during Communication Over Sound for Healthy Environment"
 collection: publications
+category: posters
 permalink: /publication/pep-8
 type: publications
 date: 2020-01-05
