@@ -6,89 +6,28 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div><hr>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- Add custom CSS for enhanced button styling -->
-<style>
-  .dropdown-btn {
-    cursor: pointer;
-    background-color: rgba(128, 128, 128, 0.1); /* light gray with alpha */
-    border: none;
-    border-top: 1px solid rgba(128, 128, 128, 0.3); /* subtle gray border on top */
-    border-bottom: 1px solid rgba(128, 128, 128, 0.3); /* subtle gray border on bottom */
-    padding: 15px 10px; /* increased padding for better spacing */
-    width: 100%;
-    text-align: left;
-    font-size: 1.25em; /* increase font size */
-    font-family: inherit; /* inherit font family */
-    color: inherit; /* inherit font color */
-    transition: background-color 0.3s;
-    font-weight: bold;
-    margin: 10px 0;
-  }
-
-  .dropdown-btn:hover {
-    background-color: rgba(128, 128, 128, 0.2); /* slightly darker on hover */
-  }
-
-  .category-content {
-    display: block; /* make categories visible by default */
-    margin-top: 10px;
-  }
-
-  .category-content.hide {
-    display: none; /* hide category content when class 'hide' is added */
-  }
-
-  .publication-item {
-  display: flex; /* Aligns the number and title in a row */
-  align-items: flex-start; /* Aligns them to the top */
-  margin-bottom: 10px; /* Space between publication items */
-}
-</style>
-
-<!-- JavaScript for toggling visibility of publications -->
-<script>
-  function toggleCategory(categoryId) {
-    const categoryContent = document.getElementById(categoryId);
-    categoryContent.classList.toggle("hide"); // Toggle 'hide' class to show/hide
-  }
-</script>
-
-<!-- Render publication categories with dropdown toggle functionality -->
+<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category %}
-    <div>
-      <div>
-        <button class="dropdown-btn" onclick="toggleCategory('{{ category[0] }}')">
-          {{ category[1].title }}
-        </button>
-      </div>
-      <div id="{{ category[0] }}" class="category-content">
-        <hr />
-        {% assign count = 1 %}  <!-- Initialize a counter -->
-        {% for post in site.publications reversed %}
-          {% if post.category == category[0] %}
-            <div class="publication-item">
-              <div>
-                {% include archive-single.html %}
-              </div>
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
   {% endfor %}
 {% else %}
-  {% assign count = 1 %}  <!-- Initialize a counter -->
   {% for post in site.publications reversed %}
-    <div class="publication-item">
-      <div>
-        {% include archive-single.html %}
-      </div>
-    </div>
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
