@@ -10,8 +10,7 @@ redirect_from:
 
 I am currently a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, West Bengal. I am pursuing my Ph.D. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/). I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). 
 
-Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu
-](https://faculty.smu.edu.sg/profile/thivya-kandappu-541).
+<!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
 
 My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI, Next generation cellular networks, Embedded systems, IoT, UAV, etc.
 
