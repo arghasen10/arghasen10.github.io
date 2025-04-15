@@ -1,5 +1,5 @@
 ---
-title: mmWave Based User Identification using Gait Signatures"
+title: mmWave Based User Identification using Gait Signatures
 collection: publications
 permalink: /publication/pep-21
 category: posters
