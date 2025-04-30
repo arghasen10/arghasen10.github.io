@@ -1,5 +1,5 @@
 ---
-title: "Beyond Doppler: Demonstrating Phase-Based Ego-Speed Estimation on Embedded mmWave Radar"
+title: "DEMO: Beyond Doppler: Demonstrating Phase-Based Ego-Speed Estimation on Embedded mmWave Radar"
 collection: publications
 permalink: /publication/pep-24
 category: posters
