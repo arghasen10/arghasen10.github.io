@@ -10,9 +10,13 @@ redirect_from:
 
 I am currently a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, West Bengal. I am pursuing my Ph.D. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/). I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). 
 
-<!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
+This summer, I have joined Nokia Bell Labs, Cambridge, UK, as a research intern in the Device Forms team, led by [Alessandro Montanari](https://alessandro-montanari.github.io/) and [Fahim Kawsar](https://www.fahim-kawsar.net/). My work focuses on the domain of medical wearable technologies, and the internship will continue until the end of August 2025.
 
-My research interests include the areas of Millimeter Wave Sensing, FMCW Radars, HCI, Next generation cellular networks, Embedded systems, IoT, UAV, etc.
+Previously, I visited the University of Bremen, Germany, in December 2024 for a month-long research collaboration under the DST-DAAD joint project, working with [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/). Prior to that, I served as a Visiting Visiting Postgraduate Research Student at the School of Computing and Information Systems, Singapore Management University ([SMU](https://www.smu.edu.sg/)), collaborating with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541).
+
+My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), next-generation cellular networks, embedded systems, Internet of Things (IoT), and unmanned aerial vehicles (UAVs).
+
+<!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
 
 
 Primary Research Experience
@@ -44,6 +48,10 @@ Achievements
 10. IoT Hackathon Winner: 1st Position in Hackoverflow, IoT Hackathon organized in Aavishkar 2018, Techno-Management fest of NIT Durgapur organised by GNU LINUX USER's GROUP and HackerEarth.
 11. District and School Topper in Higher Secondary Examination, CBHSE.
 12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058.
+
+
+<h3>Countries Visited 🌍:</h3>
+<p style="font-size: 1.8em;">🇺🇸 🇸🇬 🇮🇩 🇲🇾 🇯🇵 🇩🇪 🇨🇿 🇳🇱 🇬🇧</p>
 
 Visit tracker
 ======
