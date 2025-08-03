@@ -38,4 +38,3 @@ BibTex Reference:
   year={2023}
 }
 ```
-For questions and general feedback, contact Argha Sen (arghasen10@gmail.com).
