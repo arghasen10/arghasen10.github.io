@@ -3,7 +3,7 @@ title: "RadarTrack: Enhancing Ego-Vehicle Speed Estimation with Single-chip mmWa
 collection: publications
 permalink: /publication/pep-24
 category: conferences
-type: accepted
+type: publications
 date: 2025-06-17
 venue: 'International Conference on Smart Computing (SMARTCOMP)'
 ---

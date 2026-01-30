@@ -3,7 +3,7 @@ title: "DEMO: Beyond Doppler: Demonstrating Phase-Based Ego-Speed Estimation on 
 collection: publications
 permalink: /publication/pep-24
 category: posters
-type: accepted
+type: publications
 date: 2025-06-17
 venue: 'International Conference on Smart Computing (SMARTCOMP)'
 ---

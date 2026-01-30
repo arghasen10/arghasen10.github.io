@@ -3,7 +3,7 @@ title: "SmartMME: Implementation of Base Station Switching Off Strategy in ns-3"
 collection: publications
 permalink: /publication/pep-20
 category: conferences
-type: accepted
+type: publications
 date: 2024-12-15
 venue: 'IEEE International Conference on Advanced Networks and Telecommunications Systems (IEEE ANTS), 2024'
 ---

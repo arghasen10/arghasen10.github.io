@@ -3,7 +3,7 @@ title: "EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuo
 collection: publications
 category: conferences
 permalink: /publication/pep-18
-type: accepted
+type: publications
 date: 2024-12-10
 venue: 'NeurIPS Datasets and Benchmarks Track, 2024'
 ---

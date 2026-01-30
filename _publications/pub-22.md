@@ -3,7 +3,7 @@ title: "CarVision: Vehicle Ranging and Tracking Using mmWave Radar for Enhanced 
 collection: publications
 permalink: /publication/pep-22
 category: conferences
-type: accepted
+type: publications
 date: 2025-03-17
 venue: 'International Conference on Pervasive Computing and Communications (PerCom 2025)'
 ---

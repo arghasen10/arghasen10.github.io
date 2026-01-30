@@ -3,7 +3,7 @@ title: mmWave Based User Identification using Gait Signatures
 collection: publications
 permalink: /publication/pep-21
 category: posters
-type: accepted
+type: publications
 date: 2025-01-06
 venue: 'COMSNETS Posters, 2025'
 ---
