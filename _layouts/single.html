@@ -36,7 +36,7 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.collection == 'publications' and page.category == 'patents' %}
+        {% elsif page.collection == 'publications' and page.categories contains 'patents' %}
           <p>
             Filed on {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
             in <i>{{ page.venue }}</i>
