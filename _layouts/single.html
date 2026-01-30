@@ -36,6 +36,14 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' and page.category == 'patents' %}
+          <p>
+            Filed on {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+            in <i>{{ page.venue }}</i>
+            {% if page.patent_no %}
+              &nbsp;— Patent No.: {{ page.patent_no }}
+            {% endif %}
+          </p>
         {% elsif page.venue and page.date and page.collection == 'publications' %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'accepted' %}
