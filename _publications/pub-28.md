@@ -6,5 +6,6 @@ category: patents
 type: filed
 date: 2025-8-4
 venue: 'Indian Patent Office'
+patent_no: 202531074243
 ---
 Authors: Soham Chakraborty, Soham Tripathy, Anamika Tiwari, <b>Argha Sen</b>, Sandip Chakraborty <br>
