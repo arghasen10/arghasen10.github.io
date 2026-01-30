@@ -5,6 +5,6 @@ permalink: /publication/pep-20
 category: conferences
 type: publications
 date: 2024-12-15
-venue: 'IEEE International Conference on Advanced Networks and Telecommunications Systems (IEEE ANTS), 2024'
+venue: 'IEEE International Conference on Advanced Networks and Telecommunications Systems (IEEE ANTS)'
 ---
 Authors: <b>Argha Sen</b>, Bhupendra Pal, Seemant Achari <br>

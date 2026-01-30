@@ -93,6 +93,8 @@ publication_category:
     title: 'Conferences (Main Track)'
   posters:
     title: 'Conferences (Posters/Workshops/Demos)'
+  patents:
+    title: 'Patents'
 
 # Reading Files
 include:

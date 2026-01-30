@@ -5,6 +5,6 @@ permalink: /publication/pep-22
 category: conferences
 type: publications
 date: 2025-03-17
-venue: 'International Conference on Pervasive Computing and Communications (PerCom 2025)'
+venue: 'International Conference on Pervasive Computing and Communications (PerCom)'
 ---
 Authors: Rajib Sarkar, <b>Argha Sen</b>, Sandip Chakraborty <br>

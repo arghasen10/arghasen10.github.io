@@ -5,7 +5,7 @@ permalink: /publication/pep-21
 category: posters
 type: publications
 date: 2025-01-06
-venue: 'COMSNETS Posters, 2025'
+venue: 'COMSNETS Posters'
 ---
 Authors: Deepraj Das, Soumik Mandal, Ashutosh Golande, <b>Argha Sen</b>, Sandip Chakraborty <br>
 
