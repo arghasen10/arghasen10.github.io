@@ -49,8 +49,8 @@ Achievements
 12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058.
 
 
-<h3>Countries Visited 🌍:</h3>
-<p style="font-size: 1.8em;">🇺🇸 🇸🇬 🇮🇩 🇲🇾 🇯🇵 🇩🇪 🇨🇿 🇳🇱 🇬🇧</p>
+<!-- <h3>Countries Visited 🌍:</h3>
+<p style="font-size: 1.8em;">🇺🇸 🇸🇬 🇮🇩 🇲🇾 🇯🇵 🇩🇪 🇨🇿 🇳🇱 🇬🇧</p> -->
 
 Visit tracker
 ======
