@@ -52,6 +52,6 @@ Achievements
 <!-- <h3>Countries Visited 🌍:</h3>
 <p style="font-size: 1.8em;">🇺🇸 🇸🇬 🇮🇩 🇲🇾 🇯🇵 🇩🇪 🇨🇿 🇳🇱 🇬🇧</p> -->
 
-Visit tracker
+<!-- Visit tracker
 ======
-<a href="https://clustrmaps.com/site/1bupr" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_J1bSlDqkAH17JefeoWFvBNFiw5CU7WL6bDNDBzGUUw&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1bupr" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_J1bSlDqkAH17JefeoWFvBNFiw5CU7WL6bDNDBzGUUw&cl=ffffff"></a> -->
