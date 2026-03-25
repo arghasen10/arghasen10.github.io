@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/). I have recently submitted my Ph.D. thesis and am actively seeking research opportunities. My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), next-generation cellular networks, and unmanned aerial vehicles (UAVs).
+I am a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/). My research interests lie broadly in the fields of millimeter-wave sensing, mobile computing, IoT. I am part of the [UbiNet](https://ubinet-iitkgp.github.io/ubinet/) research group.
 
-I joined Nokia Bell Labs, Cambridge, UK, as a research intern in the Device Forms team, led by [Alessandro Montanari](https://alessandro-montanari.github.io/). My work focused on the domain of medical wearable technologies, and the internship continued until the end of August 2025.
+I had the privilege of working as a Research Intern at Nokia Bell Labs, Cambridge, UK, from June 2025 - Aug 2025, within the Device Forms team led by A[lessandro Montanari](https://alessandro-montanari.github.io/). During this period, I engaged in research at the intersection of medical and wearable technologies.
 
-Previously, I visited the University of Bremen, Germany, in December 2024 for a month-long research exchange program under the DST-DAAD joint project under [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/). Prior to that, I served as a Visiting Postgraduate Research Student at the School of Computing and Information Systems, Singapore Management University (SMU), from August 2023 to February 2024, where I collaborated with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541).
+I was also fortunate to participate in a month-long research exchange at the University of Bremen, Germany, in December 2024, under the DST-DAAD joint project supervised by [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/).
+
+Earlier, I had the opportunity to serve as a Visiting Postgraduate Research Student at the School of Computing and Information Systems, Singapore Management University (SMU), from August 2023 to February 2024. There, I worked under the supervision of [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541).
+
+<!-- I joined Nokia Bell Labs, Cambridge, UK, as a research intern in the Device Forms team, led by [Alessandro Montanari](https://alessandro-montanari.github.io/). My work focused on the domain of medical wearable technologies, and the internship continued until the end of August 2025.
+
+Previously, I visited the University of Bremen, Germany, in December 2024 for a month-long research exchange program under the DST-DAAD joint project under [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/). Prior to that, I served as a Visiting Postgraduate Research Student at the School of Computing and Information Systems, Singapore Management University (SMU), from August 2023 to February 2024, where I collaborated with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
 
 
 <!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
