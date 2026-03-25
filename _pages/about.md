@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/). Recently I have submitted my Ph.D. thesis actively looking for open Researcher roles. My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), next-generation cellular networks, and unmanned aerial vehicles (UAVs).
+I am a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/). I have recently submitted my Ph.D. thesis and am actively seeking research opportunities. My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), next-generation cellular networks, and unmanned aerial vehicles (UAVs).
 
 I joined Nokia Bell Labs, Cambridge, UK, as a research intern in the Device Forms team, led by [Alessandro Montanari](https://alessandro-montanari.github.io/) and [Fahim Kawsar](https://www.fahim-kawsar.net/). My work focused on the domain of medical wearable technologies, and the internship continued until the end of August 2025.
 
