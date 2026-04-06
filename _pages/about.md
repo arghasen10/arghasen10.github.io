@@ -37,7 +37,7 @@ Education
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"><strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2021 - present</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">PhD in Department of Computer Science and Engineering <span style="float: right; ">mmWave Sensing</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://nitdgp.ac.in/"> <strong>National Institute of Technology Durgapur </strong></a> <span style="float: right; ">2016 - 2020</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Department of Electronics and Communication Engineering <span style="float: right; ">8.97 CGPA</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Higher Secondary School</strong> <span style="float: right; ">2014-2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Jawahar Navodaya Vidyalaya,Gopalpur, Birbhum <span style="float: right; ">95.4%</span></p><hr />
-* <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">Jawahar Navodaya Vidyalaya,Gopalpur, Birbhum <span style="float: right; ">93.1%</span></p>
+<!-- * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">Jawahar Navodaya Vidyalaya,Gopalpur, Birbhum <span style="float: right; ">93.1%</span></p> -->
 
 Achievements
 ======
@@ -51,8 +51,8 @@ Achievements
 8. 1st Position in Techmela, Annual science exhibition organized in AAROHAN 2019. Presented a complete working prototype AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone.
 9. 1st Position in Onspot IoT Hackathon organized in AAROHAN 2019 among 70 entries. 
 10. IoT Hackathon Winner: 1st Position in Hackoverflow, IoT Hackathon organized in Aavishkar 2018, Techno-Management fest of NIT Durgapur organised by GNU LINUX USER's GROUP and HackerEarth.
-11. District and School Topper in Higher Secondary Examination, CBHSE.
-12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058.
+<!-- 11. District and School Topper in Higher Secondary Examination, CBHSE. -->
+<!-- 12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058. -->
 
 
 <!-- <h3>Countries Visited 🌍:</h3>
