@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/argha_cv_new.pdf
+  # - title: "CV"
+  #   url: /files/argha_cv_new.pdf
     
   # - title: "Guide"
   #   url: /markdown/
