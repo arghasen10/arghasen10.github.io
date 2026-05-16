@@ -24,13 +24,13 @@ Previously, I visited the University of Bremen, Germany, in December 2024 for a 
 <!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
 
 
-Primary Research Experience
+<!-- Primary Research Experience
 ======
 1. Experience with mmWave and acoustic FMCW signal processing techniques. I have used mmWave and accoustic FMCW  sensors for localization, tracking and activity recognition of humans under indoor environments.
 1. Hands-on experience in hardware prototyping including circuit design, circuit debugging, deployment. Developed prototype hardwares for Embedded Pollution Sensors mounted on a drone for air quality assesment. 
 1. Experience conducting human research studies. Conducted real-time driver inattenviness study using COTS mmWave Radars by collecting doppler shifts in the mmWave data because of drivers attentive body movements, such as talking, yawning, nodding, etc. 
 1. Experience with design of UAVs, control systems, RF communication devices. Developed drones using ArduCopter APM flight controller board and mounted air quality measurement sensors.
-1. Experience with Computer Networks, IoT devices, Distributed Sensor Networks. Worked on energy optimisation in 5G Cellular Networks, using network simulator ns-3.
+1. Experience with Computer Networks, IoT devices, Distributed Sensor Networks. Worked on energy optimisation in 5G Cellular Networks, using network simulator ns-3. -->
 
 Education
 ======
@@ -47,6 +47,7 @@ Achievements
 4. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
 5. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
 6. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
+
 <!-- 7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
 8. 1st Position in Techmela, Annual science exhibition organized in AAROHAN 2019. Presented a complete working prototype AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone.
 9. 1st Position in Onspot IoT Hackathon organized in AAROHAN 2019 among 70 entries. 
