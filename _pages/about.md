@@ -47,10 +47,10 @@ Achievements
 4. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
 5. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
 6. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
-7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
+<!-- 7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
 8. 1st Position in Techmela, Annual science exhibition organized in AAROHAN 2019. Presented a complete working prototype AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone.
 9. 1st Position in Onspot IoT Hackathon organized in AAROHAN 2019 among 70 entries. 
-10. IoT Hackathon Winner: 1st Position in Hackoverflow, IoT Hackathon organized in Aavishkar 2018, Techno-Management fest of NIT Durgapur organised by GNU LINUX USER's GROUP and HackerEarth.
+10. IoT Hackathon Winner: 1st Position in Hackoverflow, IoT Hackathon organized in Aavishkar 2018, Techno-Management fest of NIT Durgapur organised by GNU LINUX USER's GROUP and HackerEarth. -->
 <!-- 11. District and School Topper in Higher Secondary Examination, CBHSE. -->
 <!-- 12. Secured 15883 Rank in JEE Main 2016, out of 12,07,058. -->
 
