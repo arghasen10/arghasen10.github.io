@@ -12,7 +12,7 @@ I am a research scholar in the Department of [Computer Science and Engineering](
 
 I had the privilege of working as a Research Intern at Nokia Bell Labs, Cambridge, UK, from June 2025 - Aug 2025, within the Device Forms team led by [Alessandro Montanari](https://alessandro-montanari.github.io/). During this period, I engaged in research at the intersection of medical and wearable technologies.
 
-I was also fortunate to participate in a month-long research exchange at the University of Bremen, Germany, in December 2024, under the DST-DAAD joint project supervised by [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/).
+<!-- I was also fortunate to participate in a month-long research exchange at the University of Bremen, Germany, in December 2024, under the DST-DAAD joint project supervised by [Prof. Rolf Drechsler](https://www.rolfdrechsler.de/). -->
 
 Earlier, I had the opportunity to serve as a Visiting Postgraduate Research Student at the School of Computing and Information Systems, Singapore Management University (SMU), from August 2023 to February 2024. There, I worked under the supervision of [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541).
 
