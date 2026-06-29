@@ -34,7 +34,7 @@ Previously, I visited the University of Bremen, Germany, in December 2024 for a 
 
 Education
 ======
-* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"><strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2021 - present</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">PhD in Department of Computer Science and Engineering <span style="float: right; ">mmWave Sensing</span></p><hr />
+* <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"><strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2021 - 2026</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">PhD in Department of Computer Science and Engineering <span style="float: right; ">mmWave Sensing</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://nitdgp.ac.in/"> <strong>National Institute of Technology Durgapur </strong></a> <span style="float: right; ">2016 - 2020</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Department of Electronics and Communication Engineering <span style="float: right; ">8.97 CGPA</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Higher Secondary School</strong> <span style="float: right; ">2014-2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Jawahar Navodaya Vidyalaya,Gopalpur, Birbhum <span style="float: right; ">95.4%</span></p><hr />
 <!-- * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">Jawahar Navodaya Vidyalaya,Gopalpur, Birbhum <span style="float: right; ">93.1%</span></p> -->
