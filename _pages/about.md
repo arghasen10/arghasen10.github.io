@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scholar in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur, under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/). My research interests lie broadly in the fields of millimeter-wave sensing, mobile computing, IoT. I am part of the [UbiNet](https://ubinet-iitkgp.github.io/ubinet/) research group.
+I am an Institute Postdoctoral Fellow in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in/) at IIT Kharagpur. I completed my Ph.D. under the supervision of Prof. [Sandip Chakraborty](https://sandipc-iitkgp.github.io/sandip-web/) where I was part of the [UbiNet](https://ubinet-iitkgp.github.io/ubinet/) research group. My research interests lie broadly in the fields of millimeter-wave sensing, mobile computing, IoT.
 
 I had the privilege of working as a Research Intern at Nokia Bell Labs, Cambridge, UK, from June 2025 - Aug 2025, within the Device Forms team led by [Alessandro Montanari](https://alessandro-montanari.github.io/). During this period, I engaged in research at the intersection of medical and wearable technologies.
 
