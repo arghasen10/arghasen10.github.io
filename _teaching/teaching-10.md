@@ -1,5 +1,5 @@
 ---
-title: "Course Instructor"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate/Postgraduate course"
 permalink: /teaching/teaching-10
