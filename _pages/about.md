@@ -41,12 +41,13 @@ Education
 
 Achievements
 ======
-1. Recipient of ACM COMPASS Travel Grant for attending ACM COMPASS 2024.
-2. Recipient of ACM MobiSys Student Travel Grant for attending ACM MobiSys 2024.
-3. Recipient of ACM IARCS Travel Grant for attending IPSN 2024.
-4. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
-5. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
-6. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
+1. Recipient of COMSNETS Student Travel Grant for attending COMSNETS 2025.
+2. Recipient of ACM COMPASS Travel Grant for attending ACM COMPASS 2024.
+3. Recipient of ACM MobiSys Student Travel Grant for attending ACM MobiSys 2024.
+4. Recipient of ACM IARCS Travel Grant for attending IPSN 2024.
+5. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
+6. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
+7. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
 
 <!-- 7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
 8. 1st Position in Techmela, Annual science exhibition organized in AAROHAN 2019. Presented a complete working prototype AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone.
