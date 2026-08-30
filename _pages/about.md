@@ -43,11 +43,11 @@ Education
 Professional Service
 ======
 <ol>
-    <li><p style="margin-bottom: 0.6em;">Tutorial Speaker on mmWave Sensing, <a href="https://percom.org/2025/tut_mmwave/">IEEE PerCom Tutorials  <span style="float: right;">May 2025</span></p></li>
-  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://www.sigmobile.org/mobisys/2025/artifact_evaluation_committee/">ACM MobiSys Artifacts 2025 <span style="float: right;">Jun 2025</span></p></li>
+    <li><p style="margin-bottom: 0.6em;">Tutorial Speaker on mmWave Sensing, <a href="https://percom.org/2025/tut_mmwave/">IEEE PerCom Tutorials</a> <span style="float: right;">May 2025</span></p></li>
+  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://www.sigmobile.org/mobisys/2025/artifact_evaluation_committee/">ACM MobiSys Artifacts 2025</a> <span style="float: right;">Jun 2025</span></p></li>
   <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://wellcomp2025.github.io/committee.html">WellComp 2025</a> — Workshop on Computing for Well-being, co-located with UbiComp/ISWC 2025 <span style="float: right;">Oct 2025</span></p></li>
   <li><p style="margin-bottom: 0.6em;">TPC Member, Doctoral Symposium, <a href="https://cs3-lab.github.io/icdcn/submission/call-for-doctoral-symposium.html">ICDCN 2026</a> <span style="float: right;">Jan 2026</span></p></li> 
-  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://percom.org/2026/call-for-wip-papers/">IEEE PerCom Work-in-Progress (WIP) 2026 <span style="float: right;">Mar 2026</span></p></li> 
+  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://percom.org/2026/call-for-wip-papers/">IEEE PerCom Work-in-Progress (WIP) 2026</a> <span style="float: right;">Mar 2026</span></p></li> 
   <li><p style="margin-bottom: 0.6em;">Reviewer, IEEE ICASSP 2026 <span style="float: right;">May 2026</span></p></li> <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://netaisys.github.io/#program-committee">NetAISys 2026</a> — International Workshop on Networked AI Systems, co-located with ACM MobiSys 2026 <span style="float: right;">Jun 2026</span></p></li> 
   <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://wellcomp2026.github.io/committee.html">WellComp 2026</a> — Workshop on Computing for Well-being, co-located with UbiComp/ISWC 2026 <span style="float: right;">Oct 2026</span></p></li> 
   <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://ieee-msn.org/2026/tpc.php">IEEE MSN 2026</a> — International Conference on Mobility, Sensing and Networking <span style="float: right;">Dec 2026</span></p></li> 
