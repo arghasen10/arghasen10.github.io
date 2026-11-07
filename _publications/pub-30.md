@@ -7,4 +7,4 @@ type: accepted
 date: 2026-01-01
 venue: 'HeadSys 2026, 1st Workshop on Head-Based Intelligent Systems, Co-located with ACM MobiSys 2026'
 ---
-Authors: Arup Sau, <b>Argha Sen</b>, Sandip Chakraborty <br>
+Authors: Jake Stuchbury-Wass, <b>Argha Sen</b>, Khaldoon Al-Naimi, Yang Liu, Alessandro Montanari <br>

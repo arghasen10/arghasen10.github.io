@@ -15,6 +15,8 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign cat_posts = site.publications | where: "category", category[0] %}
+    {% assign pub_num = cat_posts.size %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
@@ -23,7 +25,17 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% case category[0] %}
+        {% when 'manuscripts' %}{% assign pub_prefix = 'J' %}
+        {% when 'conferences' %}{% assign pub_prefix = 'C' %}
+        {% when 'posters' %}{% assign pub_prefix = 'M' %}
+        {% when 'patents' %}{% assign pub_prefix = 'P' %}
+        {% when 'books' %}{% assign pub_prefix = 'B' %}
+        {% else %}{% assign pub_prefix = category[1].prefix %}
+      {% endcase %}
+      {% capture pub_label %}{{ pub_prefix }}{{ pub_num }}{% endcapture %}
+      {% include archive-single.html pub_label=pub_label %}
+      {% assign pub_num = pub_num | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}

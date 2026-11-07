@@ -87,14 +87,19 @@ author:
 publication_category:
   books:
     title: 'Books'
+    prefix: 'B'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    prefix: 'J'
   conferences:
     title: 'Conferences (Main Track)'
+    prefix: 'C'
   posters:
-    title: 'Conferences (Posters/Workshops/Demos)'
+    title: 'Miscellaneous (Posters/Workshops/Demos)'
+    prefix: 'M'
   patents:
     title: 'Patents'
+    prefix: 'P'
 
 # Reading Files
 include:
