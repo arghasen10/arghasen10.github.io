@@ -171,6 +171,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research_visits:
+    output: false
 
 
 # Defaults

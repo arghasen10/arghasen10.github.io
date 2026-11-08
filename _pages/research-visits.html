@@ -1,0 +1,69 @@
+---
+layout: archive
+title: "Research Visits"
+permalink: /research-visits/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign entries = site.research_visits | sort: "date" | reverse %}
+{% assign years = entries | group_by_exp: "v", "v.date | date: '%Y'" %}
+
+{% for year in years %}
+  {% assign items = year.items %}
+  <h2 class="rv-section">{{ year.name }}</h2>
+  {% for v in items %}
+  <article class="rv-card">
+    <div class="rv-head">
+      <h3 class="rv-title">{{ v.title }}
+        <span class="rv-tag rv-tag--{{ v.kind }}">{% if v.kind == "visit" %}Research Visit{% elsif v.kind == "internship" %}Internship{% elsif v.kind == "field" %}Field Study{% elsif v.kind == "outing" %}Lab Outing{% elsif v.kind == "milestone" %}Milestone{% else %}Conference{% endif %}</span>
+      </h3>
+      <span class="rv-period">{{ v.period }}</span>
+    </div>
+    <p class="rv-meta">
+      <i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ v.location }}
+      {% if v.host %}<span class="rv-sep">·</span> <i class="fas fa-user" aria-hidden="true"></i> Host: {{ v.host }}{% endif %}
+    </p>
+    <div class="rv-desc">{{ v.content }}</div>
+
+    {% if v.photo_folder %}
+      {% capture folder %}/images/photos/{{ v.photo_folder }}/{% endcapture %}
+      <div class="rv-gallery">
+      {% for f in site.static_files %}
+        {% if f.path contains folder %}
+          {% assign ext = f.extname | downcase %}
+          {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
+          <a href="{{ base_path }}{{ f.path }}" class="image-popup" title="{{ v.title }}">
+            <img src="{{ base_path }}{{ f.path }}" alt="{{ v.title }}" loading="lazy">
+          </a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+{% endfor %}
+
+<style>
+  .rv-section { margin-top: 1.5em; padding-bottom: 0.3em; border-bottom: 1px solid #e5e5e5; }
+  .rv-card { margin: 1.4em 0 2em; }
+  .rv-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0.25em 1em; }
+  .rv-title { margin: 0; font-size: 1.1em; }
+  .rv-tag { display: inline-block; margin-left: 0.4em; padding: 0.1em 0.5em; border-radius: 3px; font-size: 0.65em; font-weight: 600; vertical-align: middle; }
+  .rv-tag--visit { background: #e3f0e8; color: #2a6b45; }
+  .rv-tag--conference { background: #e5ecf6; color: #2d5a8c; }
+  .rv-tag--internship { background: #f6ebdc; color: #8a5a1c; }
+  .rv-tag--field { background: #efe6f5; color: #6b3d8a; }
+  .rv-tag--outing { background: #e0f2f4; color: #1f6b73; }
+  .rv-tag--milestone { background: #fbe4e4; color: #9a2f2f; }
+  .rv-period { color: #7a8288; font-size: 0.85em; white-space: nowrap; }
+  .rv-meta { margin: 0.3em 0 0.5em; color: #555; font-size: 0.85em; }
+  .rv-sep { margin: 0 0.4em; }
+  .rv-desc p { margin: 0 0 0.7em; font-size: 0.95em; }
+  .rv-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 6px; }
+  .rv-gallery a { display: block; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 4px; background: #f2f3f3; }
+  .rv-gallery img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.2s ease; }
+  .rv-gallery a:hover img { transform: scale(1.05); }
+</style>
