@@ -6,6 +6,7 @@ type: publications
 permalink: /publication/pep-1
 date: 2023-02-14
 venue: 'IEEE Transactions on Network and Service Management (TNSM)'
+ranking: "Q1"
 ---
 
 Authors: Basabdatta Palit, <b>Argha Sen</b>, Abhijit Mondal, Ayan Zunaid, Jay Jayatheerthan, Sandip Chakraborty<br>

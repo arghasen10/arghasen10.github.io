@@ -5,6 +5,7 @@ category: conferences
 type: publications
 permalink: /publication/pep-4
 venue: 'International Conference on Embedded Wireless Systems and Networks (EWSN)'
+ranking: "CORE B"
 date: 2023-09-25
 ---
 

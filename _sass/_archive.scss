@@ -243,3 +243,18 @@
     }
   }
 }
+
+/* Publication venue ranking badge (CORE / SJR quartile) */
+.pub-rank {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0.05em 0.45em;
+  border-radius: 3px;
+  background: #fdf1d6;
+  color: #7a5200;
+  font-size: 0.8em;
+  font-weight: 600;
+  font-style: normal;
+  white-space: nowrap;
+  vertical-align: middle;
+}

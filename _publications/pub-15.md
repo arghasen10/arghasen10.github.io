@@ -6,6 +6,7 @@ permalink: /publication/pep-15
 type: publications
 date: 2024-06-11
 venue: 'Pervasive and Mobile Computing, Volume 103, October'
+ranking: "Q1"
 ---
 
 Authors: <b>Argha Sen</b>, Avijit Mandal, Prasenjit Karmakar, Anirban Das, Sandip Chakraborty <br>

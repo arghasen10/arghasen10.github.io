@@ -6,6 +6,7 @@ permalink: /publication/pep-19
 type: publications
 date: 2024-11-8
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT)'
+ranking: "Q1"
 ---
 Authors: <b>Argha Sen</b>, Nuwan Bandara, Ila Gokarn, Thivya Kandappu, Archan Misra <br>
 [Download paper here](/files/imwut1.pdf)

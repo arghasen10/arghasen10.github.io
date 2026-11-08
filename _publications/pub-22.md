@@ -6,5 +6,6 @@ category: conferences
 type: publications
 date: 2025-03-17
 venue: 'International Conference on Pervasive Computing and Communications (PerCom)'
+ranking: "CORE A*"
 ---
 Authors: Rajib Sarkar, <b>Argha Sen</b>, Sandip Chakraborty <br>

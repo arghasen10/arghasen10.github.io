@@ -6,5 +6,6 @@ category: manuscripts
 type: accepted
 date: 2026-01-01
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT), 2026'
+ranking: "Q1"
 ---
 Authors: Tirthankar Halder, <b>Argha Sen</b>, Debarati Sen, Sandip Chakraborty <br>

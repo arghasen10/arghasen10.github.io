@@ -39,12 +39,13 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {% if post.ranking %}{% capture rank_badge %} <span class="pub-rank">{{ post.ranking }}</span>{% endcapture %}{% else %}{% assign rank_badge = "" %}{% endif %}
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.type == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{{ rank_badge }} </p>
         {% elsif post.collection == 'publications' and post.type == 'accepted' %}
-          <p>Accepted in <i>{{ post.venue }}</i> </p>
+          <p>Accepted in <i>{{ post.venue }}</i>{{ rank_badge }} </p>
         {% elsif post.collection == 'publications' and post.type == 'submitted' %}
           <p>Submitted in <i>{{ post.venue }}</i> </p>
         {% elsif post.date %}
