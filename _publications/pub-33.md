@@ -6,5 +6,6 @@ category: manuscripts
 type: accepted
 date: 2026-01-01
 venue: 'ACM Transactions on Internet of Things (ACM TIoT), 2026'
+ranking: "Q1"
 ---
 Authors: <b>Argha Sen</b>, Soham Chakraborty, Soham Tripathy, Sandip Chakraborty <br>

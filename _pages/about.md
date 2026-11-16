@@ -50,8 +50,12 @@ Professional Service
   <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://percom.org/2026/call-for-wip-papers/">IEEE PerCom Work-in-Progress (WIP) 2026</a> <span style="float: right;">Mar 2026</span></p></li> 
   <li><p style="margin-bottom: 0.6em;">Reviewer, IEEE ICASSP 2026 <span style="float: right;">May 2026</span></p></li> <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://netaisys.github.io/#program-committee">NetAISys 2026</a> — International Workshop on Networked AI Systems, co-located with ACM MobiSys 2026 <span style="float: right;">Jun 2026</span></p></li> 
   <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://wellcomp2026.github.io/committee.html">WellComp 2026</a> — Workshop on Computing for Well-being, co-located with UbiComp/ISWC 2026 <span style="float: right;">Oct 2026</span></p></li> 
+  <li><p style="margin-bottom: 0.6em;">Reviewer, ACM Transactions on Internet of Things (TIoT) <span style="float: right;">Nov 2026</span></p></li>
   <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://ieee-msn.org/2026/tpc.php">IEEE MSN 2026</a> — International Conference on Mobility, Sensing and Networking <span style="float: right;">Dec 2026</span></p></li> 
-  <li><p style="margin-bottom: 0.6em;"> Workshop Chair, <a href="https://sites.google.com/view/society-2027">SoCIeTY, ICDCN 2027</a> — 5th International Workshop on Societal Computing for the Internet of Things & You <span style="float: right;">Jan 2027</span></p></li> <li><p style="margin-bottom: 0.6em;">TPC Member, <a href="https://sites.google.com/view/spt-iot-2027/committee?authuser=0">SPT-IoT 2027</a> — International Workshop on Security, Privacy and Trust in the Internet of Things <span style="float: right;">March 2027</span></p></li> 
+  <li><p style="margin-bottom: 0.6em;"> Workshop Chair, <a href="https://sites.google.com/view/society-2027">SoCIeTY, ICDCN 2027</a> — 5th International Workshop on Societal Computing for the Internet of Things & You <span style="float: right;">Jan 2027</span></p></li>
+  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://comsnets.org/SysAI">SysAI 2027</a> — Workshop on Systems for the Future of AI/ML, co-located with COMSNETS 2027 <span style="float: right;">Jan 2027</span></p></li>
+  <li><p style="margin-bottom: 0.6em;">Reviewer, <a href="https://sites.google.com/view/spt-iot-2027/committee?authuser=0">SPT-IoT 2027</a> — International Workshop on Security, Privacy and Trust in the Internet of Things <span style="float: right;">March 2027</span></p></li> 
+  <li><p style="margin-bottom: 0.6em;">Reviewer, IEEE ICASSP 2027 <span style="float: right;">May 2027</span></p></li>
 </ol>
 
 Achievements
@@ -64,6 +68,8 @@ Achievements
 6. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
 7. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
 8. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
+9. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
+10. Secured Rank 1 in the entire district in Higher Secondary Examination, AISSE (CBSE) 2016.
 
 <!-- 7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
 8. 1st Position in Techmela, Annual science exhibition organized in AAROHAN 2019. Presented a complete working prototype AeT-Drone: Aerial Environment Sensing and Traffic Monitoring with Drone.
