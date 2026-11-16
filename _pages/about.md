@@ -68,7 +68,7 @@ Achievements
 6. Recipient of COMSNETS LRN Travel Grant for attending IEEE PerCom 2023.
 7. Recipient of ACM IARCS Travel Grant for attending IEEE PerCom 2023.
 8. Recipient of IEEE INFOCOM Travel Grant for attending IEEE INFOCOM 2021.
-9. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
+9. Best Project Award at ITR Chandipur, DRDO, 2019. Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
 10. Secured Rank 1 in the entire district in Higher Secondary Examination, AISSE (CBSE) 2016.
 
 <!-- 7. Best Project Award at ITR Chandipur, DRDO Project title: 3D Tracking and geolocalization of the target using Unmanned Aerial Vehicles.
